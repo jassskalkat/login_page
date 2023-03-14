@@ -1,6 +1,8 @@
+# Login Page
+
 A very basic implementation of Java Servlets and JSPs using
 1. Eclipse IDE
-2. Apache Tomcat Server v8.5
+2. Apache Tomcat Server
 
 Three JSP files login.jsp, welcome.jsp, photos.jsp have been created.
 
